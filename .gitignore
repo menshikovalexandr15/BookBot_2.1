@@ -1,0 +1,6 @@
+.venv/
+.idea/
+BookBot_2.1/.env
+BookBot_2.1/*.sqlite3
+BookBot_2.1/catalog_cache.json
+BookBot_2.1/__pycache__/
